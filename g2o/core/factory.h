@@ -124,7 +124,7 @@ namespace g2o {
       TagLookup _tagLookup;    ///< reverse look-up, class name to tag
 
     private:
-      static Factory* factoryInstance;
+      //static Factory* factoryInstance;
   };
 
   template<typename T>
